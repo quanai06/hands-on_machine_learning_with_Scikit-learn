@@ -3,6 +3,6 @@
 
 # Quan Le Hoang learned code from this book : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
-## This repo coded from scratch by me (no clone other repo)
+## This repo coded from scratch by me
 
 ## [Reference Repo](https://github.com/ageron/handson-ml3)
